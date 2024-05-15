@@ -1,5 +1,7 @@
 # Screen Recorder Software
 
+<img src ="Screenshot 05-15-2024 11.24.37.png"/>
+
 Welcome to the Screen Recorder Software built with Electron.js! This software allows you to record your screen effortlessly. Below, you'll find instructions on how to set it up, install necessary packages, and troubleshoot common issues.
 
 ## Installation
